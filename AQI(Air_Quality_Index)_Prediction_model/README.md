@@ -1,8 +1,10 @@
+<h2>  Air Quality Index Prediction </h2>
+
 In this project, i have worked on predicting the Air Quality Index of Bangalore city, India. This can be expanded for any country, state or city in the world.
 
 Data source credits : https://en.tutiempo.net/
 
-![Air Quality Index](https://previews.123rf.com/images/blueringmedia/blueringmedia2002/blueringmedia200200906/140013522-air-quality-index-chart-with-color-scales-from-good-to-hazardous-illustration.jpg=500x)
+![Air Quality Index](https://previews.123rf.com/images/blueringmedia/blueringmedia2002/blueringmedia200200906/140013522-air-quality-index-chart-with-color-scales-from-good-to-hazardous-illustration.jpg)
 
 The main idea in this case study/project is to find or predict the Air Quality Index, provided the various parameters like the one's below :
 
