@@ -13,6 +13,6 @@ Teaching and code credits (Krish Naik) : https://www.youtube.com/watch?v=hTacGMf
 This model would help us to find the authenticity of the Bank notes using the 4 features/parameters as mentioned above. Technologies or concepts used in this project are as follows :
 
 1. DS Models (Random Forest, HyperParameter Tuning)
-2. Flassger
+2. Flassger (How to run Flassger APP? (Open the URL :- http://127.0.0.1:5000/apidocs/)
 3. Swagger
-4. Streamlit
+4. Streamlit (How to run Streamlit (streamlit run Streamlit_implementation.py))
