@@ -5,7 +5,7 @@ In this project, I have worked on creating Restaurant Recommendation system usin
 When a user input the set of text in layman words like "I would like Indian restaurants", then the model does a tfIdf vectorization and keep track of all the review text for a given restaurant and recommend the same based on the user preference entered.
 
 
-![Restaurant Recommendation System](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5sGTdJl-NdsANZKifZaEH4FvvClMIVKvH-A&usqp=CAU =500x)
+![Restaurant Recommendation System](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5sGTdJl-NdsANZKifZaEH4FvvClMIVKvH-A&usqp=CAU)
 
 <b>Technology/Libraries used in this model :</b>
 1. TfIDF vectors
