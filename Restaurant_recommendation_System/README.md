@@ -1,7 +1,9 @@
 <h2>  Restaurant Recommendation System </h2>
 In this project, I have worked on creating Restaurant Recommendation system using 2 different Models (SVD (Singular Value Decomposition) and Matrix factorization (Stochastic GD). 
 
+
 <b> How does this model work? </b>
+
 When a user input the set of text in layman words like "I would like Indian restaurants", then the model does a tfIdf vectorization and keep track of all the review text for a given restaurant and recommend the same based on the user preference entered.
 
 
